@@ -1,0 +1,62 @@
+_wandb:
+    value:
+        cli_version: 0.23.0
+        e:
+            e60ldeeu7otj2gyesxe6yz1xb7jam1q9:
+                codePath: c:\Users\adria\Documents\drl\COMP0188\week_02\Lab2 Learning Materials\2.3 DataAnalysis_GPU_WANDB.ipynb
+                codePathLocal: 2.3 DataAnalysis_GPU_WANDB.ipynb
+                cpu_count: 16
+                cpu_count_logical: 32
+                disk:
+                    /:
+                        total: "988773609472"
+                        used: "211284885504"
+                email: adrianisc@outlook.com
+                executable: c:\Users\adria\anaconda3\envs\foundations_of_ai_comp0186\python.exe
+                git:
+                    commit: 64adf9d5ccec7f2b7a4cc8d8d59f547bdde0f96b
+                    remote: https://github.com/Adrian-Khan/COMP0188.git
+                host: Adrian_HP
+                memory:
+                    total: "51298832384"
+                os: Windows-11-10.0.26100-SP0
+                program: c:\Users\adria\Documents\drl\COMP0188\week_02\Lab2 Learning Materials\2.3 DataAnalysis_GPU_WANDB.ipynb
+                python: CPython 3.13.7
+                root: c:\Users\adria\Documents\drl\COMP0188\week_02\Lab2 Learning Materials
+                startedAt: "2025-11-22T09:39:39.209274Z"
+                writerId: e60ldeeu7otj2gyesxe6yz1xb7jam1q9
+        m: []
+        python_version: 3.13.7
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+            "2":
+                - 1
+                - 5
+                - 53
+            "3":
+                - 2
+                - 16
+            "4": 3.13.7
+            "5": 0.23.0
+            "8":
+                - 1
+                - 3
+            "12": 0.23.0
+            "13": windows-amd64
+architecture:
+    value: LinearRegressionModel
+batch_size:
+    value: 32
+epochs:
+    value: 50
+learning_rate:
+    value: 0.001
+loss:
+    value: MSELoss()
+shuffle:
+    value: true
+weight_decay:
+    value: 0

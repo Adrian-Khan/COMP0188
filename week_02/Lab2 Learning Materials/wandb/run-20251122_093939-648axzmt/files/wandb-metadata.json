@@ -1,0 +1,28 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.13.7",
+  "startedAt": "2025-11-22T09:39:39.209274Z",
+  "program": "c:\\Users\\adria\\Documents\\drl\\COMP0188\\week_02\\Lab2 Learning Materials\\2.3 DataAnalysis_GPU_WANDB.ipynb",
+  "codePath": "c:\\Users\\adria\\Documents\\drl\\COMP0188\\week_02\\Lab2 Learning Materials\\2.3 DataAnalysis_GPU_WANDB.ipynb",
+  "codePathLocal": "2.3 DataAnalysis_GPU_WANDB.ipynb",
+  "git": {
+    "remote": "https://github.com/Adrian-Khan/COMP0188.git",
+    "commit": "64adf9d5ccec7f2b7a4cc8d8d59f547bdde0f96b"
+  },
+  "email": "adrianisc@outlook.com",
+  "root": "c:\\Users\\adria\\Documents\\drl\\COMP0188\\week_02\\Lab2 Learning Materials",
+  "host": "Adrian_HP",
+  "executable": "c:\\Users\\adria\\anaconda3\\envs\\foundations_of_ai_comp0186\\python.exe",
+  "cpu_count": 16,
+  "cpu_count_logical": 32,
+  "disk": {
+    "/": {
+      "total": "988773609472",
+      "used": "211284885504"
+    }
+  },
+  "memory": {
+    "total": "51298832384"
+  },
+  "writerId": "e60ldeeu7otj2gyesxe6yz1xb7jam1q9"
+}
